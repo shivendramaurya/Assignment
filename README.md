@@ -1,6 +1,6 @@
 # Assignment
 
-Description : Rest service which accepts file path and provide give the comman words present in all the files. This projcet is created from sample spring-boot project which can as standalone appication
+Description : Rest service which accepts file path and provide give the comman words present in all the files. This projcet is created from sample spring-boot project which can run as standalone application
 
 
 To run the project from source code:
